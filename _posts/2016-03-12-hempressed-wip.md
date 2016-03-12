@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hempressed: WIP'
-datePublished: '2016-03-12T23:38:40.889Z'
-dateModified: '2016-03-12T23:38:35.462Z'
-title: ''
+datePublished: '2016-03-12T23:49:05.515Z'
+dateModified: '2016-03-12T23:48:23.781Z'
+title: 'Work & Process: Hempressed'
 author: []
 sourcePath: _posts/2016-03-12-hempressed-wip.md
 published: true
