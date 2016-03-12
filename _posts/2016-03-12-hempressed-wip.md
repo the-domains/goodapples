@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hempressed: WIP'
-datePublished: '2016-03-12T17:42:50.165Z'
-dateModified: '2016-03-12T17:39:17.644Z'
+datePublished: '2016-03-12T17:49:25.449Z'
+dateModified: '2016-03-12T17:49:00.945Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-hempressed-wip.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-hempressed-wip.md
-published: true
 url: hempressed-wip/index.html
 _type: Article
 
