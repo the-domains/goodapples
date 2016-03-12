@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Hempressed: WIP'
-datePublished: '2016-03-12T17:49:25.449Z'
-dateModified: '2016-03-12T17:49:00.945Z'
+datePublished: '2016-03-12T17:57:33.043Z'
+dateModified: '2016-03-12T17:57:27.369Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-hempressed-wip.md
