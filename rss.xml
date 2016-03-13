@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[goodapples]]></title>
         <description><![CDATA[goodapples]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goodapples/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 00:10:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 00:32:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goodapples/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Work & Process: Hempressed]]></title>
-            <description><![CDATA[<h1>Work & Process: Hempressed</h1>]]></description>
-            <link>undefinedwork-and-process-hempressed/index.html</link>
+            <title><![CDATA[Work & Process: Hempressed Fresh Juice]]></title>
+            <description><![CDATA[<article><h1>Work & Process: Hempressed Fresh Juice</h1><p>Work & Process: Hempressed</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/471a2d88-13fd-44d1-ae2b-b9389c885c58.png"></article>]]></description>
+            <link>https://thegrid.ai/goodapples/work-and-process-hempressed/index.html</link>
             <guid isPermaLink="false">a3d3ceab-182d-49bc-98d3-7ad47fd67ecc</guid>
-            <pubDate>Sun, 13 Mar 2016 00:09:31 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 00:30:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
