@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-13T00:09:31.834Z'
-dateModified: '2016-03-13T00:09:24.011Z'
-title: ''
+description: 'Work & Process: Hempressed'
+datePublished: '2016-03-13T00:30:49.127Z'
+dateModified: '2016-03-13T00:30:39.089Z'
+title: 'Work & Process: Hempressed Fresh Juice'
 author: []
 authors: []
 publisher:
@@ -22,8 +22,5 @@ url: work-and-process-hempressed/index.html
 _type: Article
 
 ---
-Work & Process: Hempressed
-
-Branding and environment for a new line of cold-pressed juice combined with the healing power of hemp-derived CBD.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45212d89-77ea-42d0-b260-ec451c5d4a6b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a9b12f5-7214-4b2c-bdc9-758574fdba52.jpg)
+# Work & Process: Hempressed Fresh Juice
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/471a2d88-13fd-44d1-ae2b-b9389c885c58.png)
